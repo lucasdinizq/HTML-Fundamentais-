@@ -1,0 +1,34 @@
+📘 Revista do Código
+
+A linguagem básica da Web: HTML
+
+Postado por Laura Jones na segunda-feira, 21 de junho de 2027
+
+Todos os sites e aplicativos da web modernos são construídos usando três tecnologias fundamentais: HTML, CSS e JavaScript. Estas são as linguagens da web.
+
+Neste post, vamos nos concentrar em HTML. Vamos aprender o que é HTML e por que você também deve aprendê-lo.
+
+O que é HTML?
+
+HTML significa HyperText Markup Language. É uma linguagem de marcação que os desenvolvedores da Web usam para estruturar e descrever o conteúdo de uma página da Web (não uma linguagem de programação).
+
+HTML consiste em elementos que descrevem diferentes tipos de conteúdo: parágrafos, links, cabeçalhos, imagens, vídeo, etc. Os navegadores da Web entendem HTML e processam o código HTML como sites.
+
+Em HTML, cada elemento é composto de 3 partes:
+
+A etiqueta de abertura
+A etiqueta de fechamento
+O elemento real
+Você pode aprender mais no MDN Web Docs.
+
+Por que você deve aprender HTML?
+
+Existem inúmeras razões para aprender a linguagem fundamental da web. Aqui estão 5 deles:
+
+Ser capaz de usar a linguagem de desenvolvimento web fundamental
+Para criar sites bonitos à mão em vez de depender de ferramentas como Worpress ou Wix
+Para construir aplicativos da web
+Para impressionar os amigos
+Para se divertir 😃
+
+Espero que você tenha aprendido algo novo aqui. Vejo você na próxima vez!
